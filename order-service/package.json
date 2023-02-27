@@ -1,0 +1,21 @@
+{
+    "name": "order-service",
+    "version": "1.0.0",
+    "description": "Order Management Service for E-commerce website",
+    "main": "server.js",
+    "scripts": {
+      "start": "node src/server.js"
+    },
+    "keywords": [
+      "order",
+      "management",
+      "e-commerce"
+    ],
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+      "express": "^4.17.1",
+      "mongoose": "^6.2.1"
+    }
+  }
+  
